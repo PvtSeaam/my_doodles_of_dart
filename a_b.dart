@@ -1,6 +1,6 @@
 void main() {
-  var a = 70;
-  var b = 30;
+  var a = 300;
+  var b = 300;
 
   if (a > b) {
     print('$a hoilo $b er abba');
