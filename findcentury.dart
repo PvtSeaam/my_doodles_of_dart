@@ -8,6 +8,7 @@ void main() {
 }
 
 void findCentury(num year) {
+  //eikhane ami 'num' er jaygaye 'int' likhte partam.
   if (year <= 2000 && year >= 1901) {
     print('$year this is under 20th Century');
   } else {

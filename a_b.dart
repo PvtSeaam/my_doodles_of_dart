@@ -1,6 +1,6 @@
 void main() {
-  var a = 300;
-  var b = 300;
+  num a = 300;
+  var b = 300; // 'var' na likhe 'num' othoba 'int' o likha jay
 
   if (a > b) {
     print('$a hoilo $b er abba');
